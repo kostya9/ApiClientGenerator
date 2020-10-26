@@ -1,5 +1,5 @@
 # C# source generator 
-# Create API Client from controllers
+Create API Client from controllers
 
 ## Example
 Controller
