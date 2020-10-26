@@ -33,8 +33,6 @@ namespace ApiClientGenerator
                 SetUpSingleApi(route, source, compilation);
             }
 
-            File.WriteAllText("D:\\Haha.cs", source.ToString());
-
             context.AddSource("GeneratedApiClient", source.ToString());
         }
 
