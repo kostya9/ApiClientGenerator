@@ -1,6 +1,7 @@
-# A source generator to cretae API Client from controllers
+# C# source generator 
+# Create API Client from controllers
 
-Example
+## Example
 Controller
 ```c#
 public enum CupPreferredLiquid { Tea, Coffee }
