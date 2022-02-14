@@ -1,6 +1,8 @@
 # C# source generator 
 Create API Client from controllers
 
+Blog post at https://sharovarskyi.com/blog/posts/source-generators-api-client/
+
 ## Example
 Controller
 ```c#
